@@ -1,0 +1,2 @@
+trip_id,start_time_s,stop_time_s,duration_s,distance_m,mean_speed_mps,max_speed_mps,mode
+1,20.1188291,90.96895361,70.85012451,1165.3096377964257,18.400627268350583,124.24659909509329,car
